@@ -5,16 +5,23 @@
 }
 
 html{
-    font-family: monospace;
+    font-family: 'Bebas Neue', cursive;
+
+   /** font-family: 'Source Sans Pro', sans-serif;**/
     font-size: 10px;
 }
 
 
 :root{
     /*variables de color*/
-    --red:red;
-    --verde:rgb(5, 115, 189);
-    --amarillo: #F7E914;
+    --azul1:rgba(52, 95, 180, 1);
+    --azul2:rgba(103, 137, 202, 1);
+    --gris1:rgba(49, 49, 49, 1);
+    --gris2:rgba(119, 119, 119, 1);
+    --gris3:rgba(165, 165, 165, 1);
+
+    --fondo:linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+
     --texto:rgb(5, 115, 189);
     --text2:black;
     --parrafo: 1.8rem;
@@ -32,7 +39,7 @@ html{
 /* Estructura de las Secciones */
 
 /*background-section*/
-.background-Section{
+.background_div{
     
     width:100%;
     padding-top: 5rem;

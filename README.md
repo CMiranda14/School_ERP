@@ -12,18 +12,18 @@
 
 # Login2
 
-**https://cmiranda14.github.io/login/**
+**https://cmiranda14.github.io/login2/*
 
 ----------------------------------------------------------------
 
 # Dashboard
 
-**https://cmiranda14.github.io/login/**
+**https://cmiranda14.github.io/dashboard/**
 
 ----------------------------------------------------------------
 
 # Profile
 
-**https://cmiranda14.github.io/login/**
+**https://cmiranda14.github.io/profile/**
 
 

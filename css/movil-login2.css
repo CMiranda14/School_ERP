@@ -4,15 +4,15 @@
     box-sizing: border-box;
 }
 
-.banner-login{
+.banner-login2{
     max-width:375px;
     height:auto;
 }
 
-.login_background{
+.login2-background{
     
     background-color:rgba(52, 95, 180, 0.931);
-    padding-top:5rem;
+    padding-top:3rem;
 
     display:flex;
     flex-direction:column;
@@ -22,32 +22,51 @@
 
 }
 
-.banner-login img{
+
+
+.banner-login2 img{
     align-self: flex-end;
-    width:294,59px;
+    width:325.19px;
+    height:161.33px;
     padding-left: 30px;
+    margin-top:15px;
 
 
 }
 
-.banner-login h2{
-    color:white;
+.section1{
+    position:absolute;
+    z-index: 3;
+}
+
+.section2{
+    background-color:white;
+    border-radius:30px 30px 0px 0px  ;
+    width:375px;
+    padding:0px 40px 0px 30px;
+    position:relative;
+    margin-top:140px;
+    z-index: 1;
+
+}
+
+.banner-login2 h2{
+    color:rgba(49, 49, 49, 1);
     font-size: 34px;
-    padding:2rem 2rem 0rem 0rem;
+    padding:4rem 2rem 0rem 0rem;
 }
-.banner-login span{
+.banner-login2 span{
     font-weight: normal;
     font-size: 20px;
-    color:rgba(255, 255, 255, 0.657);
+    color:rgba(119, 119, 119, 1);
     padding:0rem 2rem 0rem 0rem;
 }
 
-.formulario_login{
+.banner-login{
     max-width:375px;
     height:auto;
-
     background-color: #ffff;
-    border-radius: 3rem 3rem 0rem 0rem;
+   
   
     display:flex;
     flex-direction: column;
@@ -64,7 +83,6 @@
 .formulario_label{
     font-size:12px;
     color:rgba(165, 165, 165, 1);
-
 
     display:flex;
     flex-direction:column;
@@ -85,7 +103,7 @@
     height:auto;
     padding:0px 0px 0px 0px;
     width: 100%;
-    
+    position:asolute;
 }
 
 .formulario_label{
@@ -110,7 +128,36 @@
 
 }
 
-.formulario_login button{
+.input_password{
+    height:auto;
+    padding:0px 0px 0px 0px;
+    width: 100%;
+    position:asolute;
+}
+
+.formulario_label{
+    position:relative;
+    justify-content:space-around;
+
+}
+
+.formulario_label img{
+    width:1.5rem;
+    position:absolute;
+    right:2.8rem;
+   
+}
+
+.icon{
+    display:block;
+    height: 12.500717163085938px;
+    width: 18.32000732421875px;
+    right: 90px;
+    margin:8px 0px 0px 0px;
+
+}
+
+.banner-login button{
     font-family: 'Source Sans Pro', sans-serif;
     font-size:16px;
     height: 3.5rem;
@@ -130,7 +177,7 @@
     position:relative;
 }
 
-.formulario_login button img{
+.banner-login button img{
     width:1.5rem;
     position:absolute;
     right:2.8rem;

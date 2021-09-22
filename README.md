@@ -3,7 +3,7 @@
 
 # 💻**Portafolio III Periodo 2021**💻
 
-<img src="https://https://lh3.googleusercontent.com/proxy/TI0ziMe_v9664e6i98jvcFKOlHdCCJtNaCMjQSyG0wKyUlZgXbf4LLYxi_dC0j3rjd32TM80-wPoPBc0wou_azFFBYEaDRXr_7Si6ev3">
+<img src="https://lh3.googleusercontent.com/proxy/TI0ziMe_v9664e6i98jvcFKOlHdCCJtNaCMjQSyG0wKyUlZgXbf4LLYxi_dC0j3rjd32TM80-wPoPBc0wou_azFFBYEaDRXr_7Si6ev3">
 
 ## 🔍 Datos:
 
@@ -57,7 +57,7 @@
 - Poder repasar todo lo aprendido un tiempo al día, para mantener siempre fresco todo lo aprendido.
 
 ### 3) Saber Ser y Estar
-- Realizar una hora de vida, en la cual incluya las actividades de mi día y de esta forma ser mas productivo.
+- Realizar una hoja de vida, en la cual incluya las actividades de mi día y de esta forma ser mas productivo.
 
 ------------
 
@@ -67,11 +67,6 @@
 |  Nombre de Trabajo: |  Link:  |
 |------------|  -------- |
 | **Glosario de Etiquetas** |**https://cmiranda14.github.io/Glosario_perfil/**
-| **School_ERP** |**https://cmiranda14.github.io/School_ERP/**
-| **Login** |**https://cmiranda14.github.io/login/**
-| **Login2** |**https://cmiranda14.github.io/login2/**
-| **Dashboard** |**https://cmiranda14.github.io/dashboard/**
-| **Profile** |**https://cmiranda14.github.io/profile/**
 
 ### *Este Contiene:
 
@@ -85,18 +80,28 @@
 Entre muchas otras etiquetas HTML y propiedades CSS.
 
 
+|  Nombre de Trabajo: |  Link:  |
+|------------|  -------- |
+| **School_ERP** |**https://cmiranda14.github.io/School_ERP/**
+| **Login** |**https://cmiranda14.github.io/login/**
+| **Login2** |**https://cmiranda14.github.io/login2/**
+| **Dashboard** |**https://cmiranda14.github.io/dashboard/**
+| **Profile** |**https://cmiranda14.github.io/profile/**
+
+
+
 ------------
 
 ## 📅Objetivos Futuros
 
 ### 1) Organización
--  Tener una mejor Organizacion del tiempo, y de esta forma ser más productivo.
+-  Realizar mis trabajos con mas organización y orden.
 
 ### 2) Investigación 
-- Poder aplicar de la mejor manera posible y lo aprendido para diferentes proyectos        educativos, profesionales o laborales.
+- Investigar mas profundamente los temas, para obtener un mejor conocimiento y entendimiento de estos.
 
 ### 3) Propósito
-- Trabajar cada vez con mas desempeño y dedicación.
+- Ser mas productivo y poder compartir mi conocimiento.
 
 ------------
 

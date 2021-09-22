@@ -3,7 +3,7 @@
 
 # 💻**Portafolio III Periodo 2021**💻
 
-<img src="https://lh3.googleusercontent.com/proxy/TI0ziMe_v9664e6i98jvcFKOlHdCCJtNaCMjQSyG0wKyUlZgXbf4LLYxi_dC0j3rjd32TM80-wPoPBc0wou_azFFBYEaDRXr_7Si6ev3">
+<img src="https://miro.medium.com/max/1060/1*Vy7834_HTxFhx7fL11t4Ew.jpeg">
 
 ## 🔍 Datos:
 
